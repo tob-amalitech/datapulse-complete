@@ -37,7 +37,7 @@ docker-compose up --build
 
 API is live at: **http://localhost:8000**
 Swagger docs at: **http://localhost:8000/docs**
-Swagger docs at: **UI: http://localhost:3000**
+User Interface at: **UI: http://localhost:3000**
 
 ### 3. Default credentials
 | Role  | Email                  | Password    |
